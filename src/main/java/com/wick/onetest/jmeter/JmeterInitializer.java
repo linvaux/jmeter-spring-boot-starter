@@ -1,4 +1,4 @@
-package com.xiaomi.aiot.onetest.jmeter;
+package com.wick.onetest.jmeter;
 
 import org.apache.jmeter.save.SaveService;
 import org.apache.jmeter.util.JMeterUtils;

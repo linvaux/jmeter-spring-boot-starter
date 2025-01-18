@@ -1,4 +1,4 @@
-package com.xiaomi.aiot.onetest.jmeter;
+package com.wick.onetest.jmeter;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

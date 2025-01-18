@@ -22,7 +22,7 @@
 
 ```xml
 <dependency>
-    <groupId>com.xiaomi.aiot.onetest</groupId>
+    <groupId>com.wick.onetest</groupId>
     <artifactId>jmeter-spring-boot-starter</artifactId>
     <version>1.0.0</version>
 </dependency>
